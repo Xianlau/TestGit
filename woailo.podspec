@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "woailo"
-  s.version      = "0.0.4"
+  s.version      = "1.1.1"
   s.summary      = "woailoaaq"
 
   # This description is used to generate tags and improve search results.
@@ -78,7 +78,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/Xianlau/TestGit.git", :tag => "0.0.4" }
+  s.source       = { :git => "https://github.com/Xianlau/TestGit.git", :tag => "1.1.1" }
 
 
 
